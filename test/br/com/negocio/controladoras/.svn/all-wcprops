@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/226/test/br/com/negocio/controladoras
+END
+CntrNegocioReservaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/225/test/br/com/negocio/controladoras/CntrNegocioReservaTest.java
+END
+CntrNegocioFuncionarioTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/232/test/br/com/negocio/controladoras/CntrNegocioFuncionarioTest.java
+END
+CntrNegocioVooFuncionarioTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/222/test/br/com/negocio/controladoras/CntrNegocioVooFuncionarioTest.java
+END
+CntrNegocioClienteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/232/test/br/com/negocio/controladoras/CntrNegocioClienteTest.java
+END
+CntrNegocioVooTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/240/test/br/com/negocio/controladoras/CntrNegocioVooTest.java
+END

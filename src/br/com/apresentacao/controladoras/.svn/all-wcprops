@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/219/src/br/com/apresentacao/controladoras
+END
+CntrInteracaoCliente.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/234/src/br/com/apresentacao/controladoras/CntrInteracaoCliente.java
+END
+IInteracaoCliente.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/232/src/br/com/apresentacao/controladoras/IInteracaoCliente.java
+END
+IInteracaoSistema.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/219/src/br/com/apresentacao/controladoras/IInteracaoSistema.java
+END
+ICntrInteracao.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/187/src/br/com/apresentacao/controladoras/ICntrInteracao.java
+END
+CntrInteracaoLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/232/src/br/com/apresentacao/controladoras/CntrInteracaoLogin.java
+END
+CntrInteracaoFuncionario.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/239/src/br/com/apresentacao/controladoras/CntrInteracaoFuncionario.java
+END
+IInteracaoFuncionario.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/235/src/br/com/apresentacao/controladoras/IInteracaoFuncionario.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/231/src/br/com/negocio/controladoras
+END
+INegocioCliente.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/228/src/br/com/negocio/controladoras/INegocioCliente.java
+END
+ErroConsulta.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/184/src/br/com/negocio/controladoras/ErroConsulta.java
+END
+CntrNegocioReserva.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/233/src/br/com/negocio/controladoras/CntrNegocioReserva.java
+END
+INegocioVoos.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/171/src/br/com/negocio/controladoras/INegocioVoos.java
+END
+INegocioReserva.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/228/src/br/com/negocio/controladoras/INegocioReserva.java
+END
+ErroRemove.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/src/br/com/negocio/controladoras/ErroRemove.java
+END
+CntrNegocioFuncionario.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/200/src/br/com/negocio/controladoras/CntrNegocioFuncionario.java
+END
+ErroCadastro.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/184/src/br/com/negocio/controladoras/ErroCadastro.java
+END
+INegocioFuncionario.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/228/src/br/com/negocio/controladoras/INegocioFuncionario.java
+END
+CntrNegocioVooFuncionario.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/236/src/br/com/negocio/controladoras/CntrNegocioVooFuncionario.java
+END
+ErroEdicao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/src/br/com/negocio/controladoras/ErroEdicao.java
+END
+INegocioVooFuncionario.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/187/src/br/com/negocio/controladoras/INegocioVooFuncionario.java
+END
+CntrNegocioCliente.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/232/src/br/com/negocio/controladoras/CntrNegocioCliente.java
+END
+CntrNegocioVoo.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/240/src/br/com/negocio/controladoras/CntrNegocioVoo.java
+END

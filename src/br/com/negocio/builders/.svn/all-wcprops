@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/232/src/br/com/negocio/builders
+END
+BuilderNegocioFuncionario.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/241/src/br/com/negocio/builders/BuilderNegocioFuncionario.java
+END
+BuilderInteracaoTelaLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/240/src/br/com/negocio/builders/BuilderInteracaoTelaLogin.java
+END
+BuilderNegocioCliente.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/241/src/br/com/negocio/builders/BuilderNegocioCliente.java
+END
